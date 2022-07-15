@@ -84,8 +84,6 @@ public class Your_aim extends JFrame {
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-		////////////////////////////////////////////////////////
-		
 		try { // 소리 출력
 			AudioInputStream stream = AudioSystem.getAudioInputStream(bgm_file);
 			Clip clip = AudioSystem.getClip();
