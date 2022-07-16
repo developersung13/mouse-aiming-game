@@ -79,7 +79,6 @@ public class Your_aim extends JFrame {
 	File select_bt_sounds_file = new File("./music/select_bt_sounds.wav");
 
 	public Your_aim() {
-
 		setTitle("너의 에임은");
 		setSize(1280, 1020);
 		setLocationRelativeTo(null);
