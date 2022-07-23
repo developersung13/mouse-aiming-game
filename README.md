@@ -1,6 +1,7 @@
 # 🎯 mouse-aiming-game (JAVA)
 
 made it with Hwang Ji-Hong.
+
 &nbsp;
 
 # 🖥 Display (It takes a few seconds to load a GIF)
